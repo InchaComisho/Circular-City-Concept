@@ -52,6 +52,12 @@ It is a **conceptual and technical framework** that integrates existing technolo
 
 ---
 
+## Japanese System Diagram
+
+![Circular City Concept Japanese System Diagram](assets/images/circular-city-system-diagram-ja.png)
+
+---
+
 ## Repository Positioning
 
 This repository organizes the Circular City Concept as a public framework from the perspectives of concept design, technical components, implementation phases, validation requirements, and integration with Urban OS / Civilization OS frameworks.
