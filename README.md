@@ -4,6 +4,13 @@
 
 ---
 
+## Language / 言語
+
+- [English](README.md)
+- [日本語](README_ja.md)
+
+---
+
 ## Overview
 
 The **Circular City Concept** is an urban design framework for gradually transforming existing cities from artificial systems that consume resources and discharge heat and waste into **urban living infrastructures** that circulate water, heat, energy, food, and organic matter.
@@ -36,10 +43,19 @@ It is a **conceptual and technical framework** that integrates existing technolo
 
 ---
 
-## Language / 言語
+## Repository Positioning
 
-* [English](README.md)
-* [日本語](README_ja.md)
+This repository organizes the Circular City Concept as a public framework from the perspectives of concept design, technical components, implementation phases, validation requirements, and integration with Urban OS / Civilization OS frameworks.
+The NOTE article serves as a public-facing conceptual introduction, while the GitHub README and supplementary documents provide technical structure, implementation guidance, validation items, and system diagrams.
+
+---
+
+## Supplementary Documents
+
+- [Implementation Guide: Houses, Apartments, Buildings, Districts, and Municipalities](IMPLEMENTATION_GUIDE.md)
+- [System Diagram: Water, Heat, Energy, and Organic-Matter Flows](SYSTEM_DIAGRAM.md)
+- [Validation Requirements: Water Quality, Safety, Governance, and Technology Readiness](VALIDATION_REQUIREMENTS.md)
+- [Retrofit Levels: Level 0 to Level 5](RETROFIT_LEVELS.md)
 
 ---
 
@@ -1161,6 +1177,12 @@ This concept and document were created through dialogue, organization, structuri
 ## Publication Month
 
 June 2026
+
+---
+
+## Original NOTE Article
+
+- [循環都市構想 / Circular City Concept](https://note.com/inchacomusho/n/n734d7e7da6ce)
 
 ---
 
