@@ -1151,6 +1151,34 @@ It is a plan to return the city itself to the circulation of nature.
 
 ---
 
+## Conceptual Simulation
+
+This repository includes a Python-based conceptual simulation that compares sustainability and disaster resilience across retrofit levels from Level 0 to Level 5.
+
+- [Circular City Concept Simulation Model](SIMULATION_MODEL.md)
+- [`circular_city_resilience_simulation.py`](circular_city_resilience_simulation.py)
+
+> This simulation is conceptual.  
+> It does not predict real cities, real disaster outcomes, or actual infrastructure performance.
+
+### Simulation Outputs
+
+![Circular City Sustainability Index](circular_city_sustainability_index.png)
+
+![Circular City Disaster Resilience Index](circular_city_disaster_resilience_index.png)
+
+![Water Autonomy Days](water_autonomy_days.png)
+
+![Energy Autonomy Score](energy_autonomy_score.png)
+
+![Heat Mitigation Score](heat_mitigation_score.png)
+
+![Retrofit Level Comparison](retrofit_level_comparison.png)
+
+![Disaster Scenario Comparison](disaster_scenario_comparison.png)
+
+---
+
 ## Author
 
 Master

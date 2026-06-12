@@ -1131,6 +1131,34 @@ AIとセンサーで循環を調律する。
 
 ---
 
+## 概念シミュレーション
+
+本リポジトリには、Level 0からLevel 5までのレトロフィット段階における持続性と災害レジリエンスを比較するPythonベースの概念シミュレーションを含めている。
+
+- [循環都市構想シミュレーションモデル](SIMULATION_MODEL_ja.md)
+- [`circular_city_resilience_simulation.py`](circular_city_resilience_simulation.py)
+
+> このシミュレーションは概念モデルである。  
+> 実在都市、実際の災害結果、実インフラ性能を予測するものではない。
+
+### シミュレーション出力図
+
+![循環都市 持続性指数](circular_city_sustainability_index.png)
+
+![循環都市 災害レジリエンス指数](circular_city_disaster_resilience_index.png)
+
+![水自立日数](water_autonomy_days.png)
+
+![エネルギー自立スコア](energy_autonomy_score.png)
+
+![熱緩和スコア](heat_mitigation_score.png)
+
+![レトロフィット段階比較](retrofit_level_comparison.png)
+
+![災害シナリオ比較](disaster_scenario_comparison.png)
+
+---
+
 ## 著者
 
 Master
