@@ -43,6 +43,15 @@ It is a **conceptual and technical framework** that integrates existing technolo
 
 ---
 
+## Representative Simulation Image
+
+![Circular City Concept Retrofit Level Comparison](retrofit_level_comparison.png)
+
+> Conceptual comparison of retrofit levels from Level 0 to Level 5.  
+> This figure is part of the conceptual simulation and does not represent real-world prediction.
+
+---
+
 ## Repository Positioning
 
 This repository organizes the Circular City Concept as a public framework from the perspectives of concept design, technical components, implementation phases, validation requirements, and integration with Urban OS / Civilization OS frameworks.
@@ -56,6 +65,7 @@ The NOTE article serves as a public-facing conceptual introduction, while the Gi
 - [System Diagram: Water, Heat, Energy, and Organic-Matter Flows](SYSTEM_DIAGRAM.md)
 - [Validation Requirements: Water Quality, Safety, Governance, and Technology Readiness](VALIDATION_REQUIREMENTS.md)
 - [Retrofit Levels: Level 0 to Level 5](RETROFIT_LEVELS.md)
+- [Japanese NOTE update draft](NOTE_UPDATE_ja.md)
 
 ---
 
