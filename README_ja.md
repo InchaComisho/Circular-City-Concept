@@ -1165,7 +1165,7 @@ CC BY-SA 4.0
 
 * Bideris-Davos, A. A., & Vovos, P. N.
   “Comprehensive Review for Energy Recovery Technologies Used in Water Distribution Systems Considering Their Performance, Technical Challenges, and Economic Viability.”
-  Water, 2024.
+  Water, 2024.  
   https://www.mdpi.com/2073-4441/16/15/2129
 
 ---
