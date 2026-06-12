@@ -89,6 +89,28 @@ The Circular City Concept is a nature-complementary retrofit model for transform
 
 ---
 
+## Resource Flow Diagram
+
+```mermaid
+flowchart TD
+    Rain[Rainwater] --> Storage[Storage Tanks]
+    Storage --> Toilet[Toilet Flushing]
+    Storage --> Mist[Ultrasonic Mist Cooling]
+    Storage --> Green[Urban Greening]
+    Wastewater[Wastewater] --> Treatment[Advanced Treatment]
+    Treatment --> Reclaimed[Reclaimed Water]
+    Reclaimed --> Cooling[Cooling / Irrigation / Cleaning]
+    Organic[Organic Waste] --> Compost[Compost / Humus]
+    Compost --> Soil[Urban Soil Regeneration]
+    Solar[Perovskite Solar / BIPV] --> Battery[Distributed Batteries]
+    Wind[Vertical-Axis Wind] --> Battery
+    Hydro[Small Pressure Hydropower] --> Battery
+    Battery --> Sensors[AI & Sensor Control]
+    Sensors --> CityOS[Circular City OS]
+```
+
+---
+
 ## 1. What Is the Circular City Concept?
 
 The Circular City Concept is an urban design philosophy that aims to reuse and recirculate water, heat, energy, organic matter, nutrients, wastewater, rainwater, and food residues within the city as much as possible.

@@ -80,6 +80,28 @@
 
 ---
 
+## 資源フロー図
+
+```mermaid
+flowchart TD
+    Rain[Rainwater] --> Storage[Storage Tanks]
+    Storage --> Toilet[Toilet Flushing]
+    Storage --> Mist[Ultrasonic Mist Cooling]
+    Storage --> Green[Urban Greening]
+    Wastewater[Wastewater] --> Treatment[Advanced Treatment]
+    Treatment --> Reclaimed[Reclaimed Water]
+    Reclaimed --> Cooling[Cooling / Irrigation / Cleaning]
+    Organic[Organic Waste] --> Compost[Compost / Humus]
+    Compost --> Soil[Urban Soil Regeneration]
+    Solar[Perovskite Solar / BIPV] --> Battery[Distributed Batteries]
+    Wind[Vertical-Axis Wind] --> Battery
+    Hydro[Small Pressure Hydropower] --> Battery
+    Battery --> Sensors[AI & Sensor Control]
+    Sensors --> CityOS[Circular City OS]
+```
+
+---
+
 ## 1. 循環都市構想とは何か
 
 循環都市構想とは、都市の中で発生する水、熱、エネルギー、有機物、栄養塩、排水、雨水、食料残渣を、可能な限り再利用・再循環させる都市設計思想である。
