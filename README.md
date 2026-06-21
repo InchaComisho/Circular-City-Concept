@@ -1309,6 +1309,8 @@ Conditions:
 
 * [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS)
 
+* [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-) — Related planetary-scale ocean cooling and heat-circulation concept.
+
 * [Desert Regeneration and Food Production Through Organic Matter Circulation](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation)
 
 ---

@@ -1281,6 +1281,8 @@ CC BY-SA 4.0
 
 * [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS)
 
+* [OTUによる直接的惑星冷却構想](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-) — 関連する惑星規模の海洋冷却・熱循環構想。
+
 * [Desert Regeneration and Food Production Through Organic Matter Circulation](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation)
 
 ---
