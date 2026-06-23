@@ -1334,3 +1334,11 @@ Circular City, Circular City Concept, Urban OS, Civilization OS, Retrofit City, 
 ## Hashtags
 
 #CircularCity #CircularCityConcept #UrbanOS #CivilizationOS #RetrofitCity #ExistingCityRetrofit #NatureComplementaryScience #WaterCirculation #RainwaterHarvesting #GreywaterReuse #ReclaimedWater #WastewaterReuse #UltrasonicMistCooling #HeatIslandMitigation #SmallScaleHydropower #PressureHydropower #VerticalAxisWindTurbine #UrbanWindPower #PerovskiteSolarCells #BuildingIntegratedPhotovoltaics #BIPV #RooftopGreening #GreenWalls #RainGarden #PermeablePavement #WastewaterHeatRecovery #DrainageHeatRecovery #OrganicMatterCirculation #HumusFormation #UrbanAgriculture #IndoorCultivation #EmergencyWaterSupply #DistributedInfrastructure #SustainableCities #ClimateChangeAdaptation #UrbanRegeneration #SmartCity #AIUrbanManagement
+
+
+---
+
+## Related Institutional Proposal: Carbon Credit to Cooling Credit
+
+- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  
+  A conceptual proposal that reframes offset-based carbon credits as book-based accounting and defines Cooling Credits as an investment framework for physically measurable heat-load reduction and planetary cooling.
