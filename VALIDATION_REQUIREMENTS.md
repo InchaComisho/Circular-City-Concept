@@ -81,3 +81,22 @@ Residents may have psychological resistance to reclaimed water, organic-matter c
 ## 16. Conclusion
 
 The value of the Circular City Concept is not in listing technologies, but in designing circulation that can be safely maintained. Water reuse must be use-specific, and potable reuse requires especially cautious treatment. Maintenance failure can turn circular infrastructure into a source of risk.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

@@ -166,3 +166,22 @@ During disasters, water, power, cooling, toilets, and information can all become
 Implementing a circular city does not mean building a large ideal city all at once. It begins by adding small, safe circulation systems to existing houses, buildings, schools, hospitals, districts, and municipalities.
 
 The first targets should be rainwater, non-potable water, greening, emergency water, and maintenance. Potable reuse, urban wind, small hydropower, perovskite solar cells, and AI control should be treated as staged introductions that require validation and governance.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

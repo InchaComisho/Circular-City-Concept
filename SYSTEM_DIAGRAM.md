@@ -148,3 +148,22 @@ flowchart TD
 ## Relationship to the README
 
 The README explains the main thesis, technical elements, and roadmap of the Circular City Concept. This document reorganizes that concept as diagrams and shows which circulation each element belongs to and where validation, maintenance, and safety controls are required.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

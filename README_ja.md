@@ -1222,9 +1222,9 @@ Alias / Handles: inchacomisho / inchacomusho
 
 ## ライセンス
 
-CC BY-SA 4.0
+CC BY 4.0
 
-本記事、概念、文章、構成は、Creative Commons Attribution-ShareAlike 4.0 International License の下で公開する。
+本記事、概念、文章、構成は、Creative Commons Attribution 4.0 International License の下で公開する。
 
 以下を許可する。
 

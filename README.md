@@ -1242,9 +1242,9 @@ June 2026
 
 ## License
 
-CC BY-SA 4.0
+CC BY 4.0
 
-This article, concept, text, and structure are released under the Creative Commons Attribution-ShareAlike 4.0 International License.
+This article, concept, text, and structure are released under the Creative Commons Attribution 4.0 International License.
 
 The following are permitted:
 
