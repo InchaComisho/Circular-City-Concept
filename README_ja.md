@@ -1,5 +1,7 @@
 # 循環都市構想
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 既存都市を水・熱・エネルギー・食料・有機物の循環システムへ改修する自然補完型レトロフィット都市モデル
 
 ---

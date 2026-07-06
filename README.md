@@ -1,5 +1,7 @@
 # Circular City Concept
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Nature-Complementary Retrofit Model for Transforming Existing Cities into Water, Heat, Energy, Food, and Organic-Matter Circulation Systems
 
 ---
