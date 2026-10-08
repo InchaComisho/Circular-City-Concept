@@ -1202,7 +1202,6 @@ This repository includes a Python-based conceptual simulation that compares sust
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
   A policy and technical framework for evaluating direct planetary cooling, water-cycle restoration, urban cooling, soil moisture recovery, vegetation transpiration, and ocean circulation as measurable cooling contributions.
 
-- [NOTE: Cooling Credit as a Climate Strategy](https://note.com/inchacomusho/n/n0f541b313ad2)
   Japanese article explaining the transition from carbon-credit-centered climate policy to a cooling-credit model that rewards actual heat reduction.
 
 ---
@@ -1242,10 +1241,6 @@ This concept and document were created through dialogue, organization, structuri
 June 2026
 
 ---
-
-## Original NOTE Article
-
-- [循環都市構想 / Circular City Concept](https://note.com/inchacomusho/n/n734d7e7da6ce)
 
 ---
 

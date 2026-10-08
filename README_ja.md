@@ -1182,7 +1182,6 @@ AIとセンサーで循環を調律する。
 - [Cooling Credit Framework / クーリングクレジット制度設計案](https://github.com/InchaComisho/Cooling-Credit-Framework)
   地球直接冷却、水循環再生、都市冷却、土壌保水、植生蒸散、海洋循環などの冷却効果を評価し、経済的インセンティブへ接続する制度設計案。
 
-- [NOTE：クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
   カーボンクレジット中心の温暖化対策から、実際に熱を下げるクーリングクレジットへの転換を説明した日本語記事。
 
 ---
@@ -1221,10 +1220,6 @@ AIとセンサーで循環を調律する。
 2026年6月
 
 ---
-
-## 原文NOTE記事
-
-- [循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
 
 ---
 
