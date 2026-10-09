@@ -1,5 +1,7 @@
 # Circular City Concept — Simulation Model Documentation
 
+[日本語版はこちら / Japanese version](SIMULATION_MODEL_ja.md)
+
 ## Purpose
 
 This simulation is a **conceptual comparison tool**.

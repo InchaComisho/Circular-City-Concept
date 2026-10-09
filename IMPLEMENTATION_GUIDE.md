@@ -1,4 +1,7 @@
 # Circular City Concept Implementation Guide
+
+[日本語版はこちら / Japanese version](IMPLEMENTATION_GUIDE_ja.md)
+
 ## A Phased Introduction Model for Houses, Apartments, Buildings, Schools, Hospitals, Districts, and Municipalities
 
 ---

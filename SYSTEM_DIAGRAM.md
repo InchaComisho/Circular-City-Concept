@@ -1,4 +1,7 @@
 # Circular City Concept System Diagram
+
+[日本語版はこちら / Japanese version](SYSTEM_DIAGRAM_ja.md)
+
 ## Circulation Flows of Water, Heat, Energy, Organic Matter, Food, and AI Management
 
 ---

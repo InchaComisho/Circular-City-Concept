@@ -1,4 +1,7 @@
 # Circular City Concept Retrofit Levels
+
+[日本語版はこちら / Japanese version](RETROFIT_LEVELS_ja.md)
+
 ## A Level 0 to Level 5 Framework for Existing-City Transformation
 
 ---

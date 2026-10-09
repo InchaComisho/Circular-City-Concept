@@ -1,4 +1,7 @@
 # 循環都市構想 検証要件
+
+[English Version](VALIDATION_REQUIREMENTS.md)
+
 ## 水質・安全性・制度・技術成熟度・社会受容の確認項目
 
 ---

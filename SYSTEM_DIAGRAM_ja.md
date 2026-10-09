@@ -1,4 +1,7 @@
 # 循環都市構想 システム図
+
+[English Version](SYSTEM_DIAGRAM.md)
+
 ## 水・熱・エネルギー・有機物・食料・AI管理の循環フロー
 
 ---
